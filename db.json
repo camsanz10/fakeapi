@@ -1,0 +1,172 @@
+{
+    "circuitos": [
+        {
+            "id": "bahrain",
+            "nombre": "Baréin",
+            "pais": "Baréin",
+            "fecha": "2024-03-02",
+            "imagen": "https://example.com/bahrain.jpg"
+        },
+        {
+            "id": "jeddah",
+            "nombre": "Yeda",
+            "pais": "Arabia Saudita",
+            "fecha": "2024-03-09",
+            "imagen": "https://example.com/jeddah.jpg"
+        },
+        {
+            "id": "melbourne",
+            "nombre": "Albert Park",
+            "pais": "Australia",
+            "fecha": "2024-03-24",
+            "imagen": "https://example.com/melbourne.jpg"
+        },
+        {
+            "id": "shanghai",
+            "nombre": "Shanghái",
+            "pais": "China",
+            "fecha": "2024-04-21",
+            "imagen": "https://example.com/shanghai.jpg"
+        },
+        {
+            "id": "suzuka",
+            "nombre": "Suzuka",
+            "pais": "Japón",
+            "fecha": "2024-04-07",
+            "imagen": "https://example.com/suzuka.jpg"
+        },
+        {
+            "id": "miami",
+            "nombre": "Miami",
+            "pais": "EE. UU.",
+            "fecha": "2024-05-05",
+            "imagen": "https://example.com/miami.jpg"
+        },
+        {
+            "id": "imola",
+            "nombre": "Imola",
+            "pais": "Italia",
+            "fecha": "2024-05-19",
+            "imagen": "https://example.com/imola.jpg"
+        },
+        {
+            "id": "monaco",
+            "nombre": "Mónaco",
+            "pais": "Mónaco",
+            "fecha": "2024-05-26",
+            "imagen": "https://example.com/monaco.jpg"
+        },
+        {
+            "id": "montreal",
+            "nombre": "Montreal",
+            "pais": "Canadá",
+            "fecha": "2024-06-09",
+            "imagen": "https://example.com/montreal.jpg"
+        },
+        {
+            "id": "barcelona",
+            "nombre": "Barcelona",
+            "pais": "España",
+            "fecha": "2024-06-23",
+            "imagen": "https://example.com/barcelona.jpg"
+        },
+        {
+            "id": "red_bull_ring",
+            "nombre": "Red Bull Ring",
+            "pais": "Austria",
+            "fecha": "2024-06-30",
+            "imagen": "https://example.com/redbull.jpg"
+        },
+        {
+            "id": "silverstone",
+            "nombre": "Silverstone",
+            "pais": "Reino Unido",
+            "fecha": "2024-07-07",
+            "imagen": "https://example.com/silverstone.jpg"
+        },
+        {
+            "id": "hungaroring",
+            "nombre": "Hungaroring",
+            "pais": "Hungría",
+            "fecha": "2024-07-21",
+            "imagen": "https://example.com/hungaroring.jpg"
+        },
+        {
+            "id": "spa",
+            "nombre": "Spa",
+            "pais": "Bélgica",
+            "fecha": "2024-07-28",
+            "imagen": "https://example.com/spa.jpg"
+        },
+        {
+            "id": "zandvoort",
+            "nombre": "Zandvoort",
+            "pais": "Países Bajos",
+            "fecha": "2024-08-25",
+            "imagen": "https://example.com/zandvoort.jpg"
+        },
+        {
+            "id": "monza",
+            "nombre": "Monza",
+            "pais": "Italia",
+            "fecha": "2024-09-01",
+            "imagen": "https://example.com/monza.jpg"
+        },
+        {
+            "id": "baku",
+            "nombre": "Bakú",
+            "pais": "Azerbaiyán",
+            "fecha": "2024-09-15",
+            "imagen": "https://example.com/baku.jpg"
+        },
+        {
+            "id": "singapore",
+            "nombre": "Marina Bay",
+            "pais": "Singapur",
+            "fecha": "2024-09-22",
+            "imagen": "https://example.com/singapore.jpg"
+        },
+        {
+            "id": "cota",
+            "nombre": "COTA",
+            "pais": "EE. UU.",
+            "fecha": "2024-10-20",
+            "imagen": "https://example.com/cota.jpg"
+        },
+        {
+            "id": "mexico_city",
+            "nombre": "México",
+            "pais": "México",
+            "fecha": "2024-10-27",
+            "imagen": "https://example.com/mexico.jpg"
+        },
+        {
+            "id": "interlagos",
+            "nombre": "Interlagos",
+            "pais": "Brasil",
+            "fecha": "2024-11-03",
+            "imagen": "https://example.com/interlagos.jpg"
+        },
+        {
+            "id": "vegas",
+            "nombre": "Las Vegas",
+            "pais": "EE. UU.",
+            "fecha": "2024-11-23",
+            "imagen": "https://example.com/vegas.jpg"
+        },
+        {
+            "id": "losail",
+            "nombre": "Losail",
+            "pais": "Catar",
+            "fecha": "2024-12-01",
+            "imagen": "https://example.com/losail.jpg"
+        },
+        {
+            "id": "yas_marina",
+            "nombre": "Yas Marina",
+            "pais": "Abu Dabi",
+            "fecha": "2024-12-08",
+            "imagen": "https://example.com/yasmarina.jpg"
+        }
+    ]
+}
